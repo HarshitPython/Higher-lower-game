@@ -1,1 +1,1 @@
-# Higher-lower-game
+# Higher Lower game
