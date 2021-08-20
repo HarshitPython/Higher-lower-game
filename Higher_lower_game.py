@@ -74,10 +74,9 @@ game()
 
 
 
-# Ask user for a guess.
 
-# Check if user is correct.
-## Get follower count.
+
+
 ## If Statement
 
 # Feedback.
