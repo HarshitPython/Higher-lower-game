@@ -52,6 +52,9 @@ def game():
     
     # Ask user for a guess.
     guess = input("Who has more followers? Type 'A' or 'B': ").lower()
+    
+    #Check if user is correct.
+    #Get follower count.
     a_follower_count = account_a["follower_count"]
     b_follower_count = account_b["follower_count"]
     is_correct = check_answer(guess, a_follower_count, b_follower_count)
