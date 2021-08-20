@@ -1,5 +1,6 @@
 from game_data import data
 import random
+#display art and logo.
 from art import logo, vs
 from replit import clear
 
