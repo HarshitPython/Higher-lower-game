@@ -45,6 +45,8 @@ def game():
       account_b = get_random_account()
 
     print(f"Compare A: {format_data(account_a)}.")
+    
+    #Add art.
     print(vs)
     print(f"Against B: {format_data(account_b)}.")
     
