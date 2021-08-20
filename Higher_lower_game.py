@@ -84,6 +84,6 @@ game()
 
 # Make B become the next A.
 
-# Add art.
+
 
 # Clear screen between rounds.
