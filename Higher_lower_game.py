@@ -65,7 +65,6 @@ game()
 
 
 
-# Format account data into printable format.
 
 # Ask user for a guess.
 
