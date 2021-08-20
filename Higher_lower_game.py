@@ -4,6 +4,7 @@ import random
 from art import logo, vs
 from replit import clear
 
+# Generate a random account from the game data.
 def get_random_account():
   """Get data from random account"""
   return random.choice(data)
@@ -61,7 +62,7 @@ def game():
 game()
 
 
-# Generate a random account from the game data.
+
 
 # Format account data into printable format.
 
