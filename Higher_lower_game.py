@@ -64,6 +64,8 @@ def game():
     # Clear screen between rounds.
     clear()
     print(logo)
+    
+    # Feedback
     if is_correct:
       score += 1
       print(f"You're right! Current score: {score}.")
