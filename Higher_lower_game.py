@@ -41,6 +41,8 @@ def game():
 
   # Make game repeatable.
   while game_should_continue:
+    
+    # Make B become the next A.
     account_a = account_b
     account_b = get_random_account()
 
