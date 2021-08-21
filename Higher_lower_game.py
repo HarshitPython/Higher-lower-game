@@ -95,7 +95,7 @@ game()
 
 
 
-# Make B become the next A.
+
 
 
 
