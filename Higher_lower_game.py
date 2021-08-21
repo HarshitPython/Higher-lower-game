@@ -39,6 +39,7 @@ def game():
   account_a = get_random_account()
   account_b = get_random_account()
 
+  # Make game repeatable.
   while game_should_continue:
     account_a = account_b
     account_b = get_random_account()
@@ -88,7 +89,7 @@ game()
 
 
 
-# Score Keeping.
+
 
 # Make game repeatable.
 
