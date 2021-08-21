@@ -91,7 +91,7 @@ game()
 
 
 
-# Make game repeatable.
+
 
 # Make B become the next A.
 
