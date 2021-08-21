@@ -67,6 +67,8 @@ def game():
     
     # Feedback
     if is_correct:
+      
+      # Score Keeping.
       score += 1
       print(f"You're right! Current score: {score}.")
     else:
